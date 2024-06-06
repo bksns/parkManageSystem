@@ -112,3 +112,14 @@ Classe SistemaEstacionamento:
   - gerarRelatorio(tipo): Gera relatórios (diários, semanais, mensais) sobre a utilização do estacionamento.
   - adicionarVaga(vaga): Adiciona uma nova vaga ao estacionamento.
   - adicionarVeiculo(veiculo): Adiciona um novo veículo ao sistema.
+
+
+### Cartões CRC
+
+Os Cartões CRC (Classe, Responsabilidade e Colaboração) são usados para identificar e organizar as classes no sistema. Cada cartão contém informações sobre as responsabilidades da classe e suas colaborações com outras classes.
+
+- [Veiculo](Veiculo.pdf)
+- [Vaga](Vaga.pdf)
+- [Ticket](Ticket.pdf)
+- [SistemaEstacionamento](SistemaEstacionamento.pdf)
+- [Relatorio](Relatorio.pdf)
