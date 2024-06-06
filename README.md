@@ -1,8 +1,17 @@
 # parkManageSystem
 
-Descrição do Projeto (User Story?):
+User Story:
 
-Eu sou um cliente interessado em desenvolver um sistema para gerenciar um estacionamento. O sistema deve incluir funcionalidades como registro de entrada e saída de veículos, cálculo de tarifas e geração de relatórios.
+   Descrição: 
+
+Como usuário, desejo poder gerenciar as entradas e saídas de veículos no estacionamento, calcular as tarifas de estacionamento e gerar relatórios detalhados de uso para uma gestão eficiente.
+
+   Critérios de Aceitação:
+
+- Posso registrar a entrada de um veículo, atribuindo uma vaga disponível.
+- Posso registrar a saída de um veículo, calculando a tarifa correspondente.
+- Posso visualizar a ocupação atual das vagas.
+- Posso gerar relatórios diários, semanais e mensais sobre a utilização do estacionamento e receitas geradas.
 
 Requisitos do Projeto:
 
