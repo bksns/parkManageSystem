@@ -113,6 +113,41 @@ Classe SistemaEstacionamento:
   - adicionarVaga(vaga): Adiciona uma nova vaga ao estacionamento.
   - adicionarVeiculo(veiculo): Adiciona um novo veículo ao sistema.
 
+Instruções de Instalação:
+
+   Pré-requisitos:
+
+   - C++11 ou superior
+   - Git
+   - Make (opcional, mas recomendado)
+
+   - Clone o repositório
+   - Compile o projeto
+   - Execute o sistema
+
+Instruções de Uso:
+
+   Registrar a entrada de um veículo:
+
+   Comando: entrada <placa> <tipo>
+   Exemplo: entrada ABC1234 carro
+   Registrar a saída de um veículo:
+
+   Comando: saida <placa>
+   Exemplo: saida ABC1234
+   Visualizar a ocupação das vagas:
+
+   Comando: ocupacao
+   Gerar relatório:
+
+   Comando: relatorio <diario|semanal|mensal>
+   Exemplo: relatorio diario
+   Principais Dificuldades
+
+Desafios Técnicos:
+
+   - Implementação do cálculo de tarifas para diferentes períodos de tempo.
+   - Gerenciamento eficiente das vagas para diferentes tipos de veículos.
 
 ### Cartões CRC
 
